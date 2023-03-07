@@ -1,0 +1,1 @@
+fs module provides functions for working with the file system. This module allows you to read, write, and manipulate files and directories on your local file system.
